@@ -1,7 +1,8 @@
 {
-  "current_message": "Please check your email, there is an important message from the administration",
+  "current_message": "يرجى التحقق من بريدك الإلكتروني، هناك رسالة مهمة من الإدارة",
+  "background_color": "#e53935",
   "messages": [
-    "Please check your email, there is an important message from the administration"
+    "يرجى التحقق من بريدك الإلكتروني، هناك رسالة مهمة من الإدارة"
   ],
   "last_updated": "2025-05-14T10:00:00Z"
 }
