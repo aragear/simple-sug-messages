@@ -1,8 +1,11 @@
 {
-  "current_message": "يرجى التحقق من بريدك الإلكتروني، هناك رسالة مهمة من الإدارة",
-  "background_color": "#e53935",
+  "current_message": "Your message goes here",
+  "header_background_color": "#912aa1",
+  "header_text_color": "#ffffff",
   "messages": [
-    "يرجى التحقق من بريدك الإلكتروني، هناك رسالة مهمة من الإدارة"
+    "Alternative message 1",
+    "Alternative message 2",
+    "Alternative message 3"
   ],
-  "last_updated": "2025-05-14T10:00:00Z"
+  "last_updated": "2025-05-14T12:00:00Z"
 }
