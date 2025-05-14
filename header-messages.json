@@ -1,10 +1,7 @@
 {
-  "current_message": "00000.",
+  "current_message": "Please check your email, there is an important message from the administration",
   "messages": [
-    "Welcome to Simp111111111111ns based on keywords.",
-    "Tip: Create multiple widgets with different prompts for various use cases.",
-    "Update: We've added support for the latest Google Gemini and OpenAI models!",
-    "Did you know? You can customize the appearance of your suggestion widgets in the Settings tab."
+    "Please check your email, there is an important message from the administration"
   ],
   "last_updated": "2025-05-14T10:00:00Z"
 }
