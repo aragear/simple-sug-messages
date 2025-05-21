@@ -1,7 +1,7 @@
 {
-  "current_message": "تم حظر حسابك، يرجى التواصل مع الادارة في الحال عبر الربيد contact@us.com",
-  "header_background_color": "#ff002b",
-  "header_text_color": "#ffffff",
+  "current_message": "Contact us here: contact@us.com",
+  "header_background_color": "#bea7de",
+  "header_text_color": "#f3ff00",
   "messages": [
     "Alternative message 1",
     "Alternative message 2",
